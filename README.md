@@ -1,4 +1,2 @@
-# test-repo
-This is my local environment.
-A new edit on my Readme.
-Third edit...
+# second-practice-repository
+This is Shreya and I am learning how to make pull requests.
